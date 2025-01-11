@@ -7,7 +7,7 @@
 **Flat Reality** - video game company dedicated to creating a unique gaming experience and providing the opportunity to improve it yourself.
 We are currently developing a psychological horror RPG titled **"The Nick"**.
 
-**[flatreality.ru](https://materialco.wixsite.com/flatreality-1) - visit our official website for more information on our activities.**
+**[flatreality.tech](https://materialco.wixsite.com/flatreality-1) - visit our official website for more information on our activities.**
 
 ## Open Source
 
